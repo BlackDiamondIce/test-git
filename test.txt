@@ -1,7 +1,1 @@
-Hello world!
-
-I'm Oleksandr! This is my first repository!
-
-I'm testing this file
-
-Yes, it works! Great! And this is my first commit!
+This is the text file for my first project. I am going to use this file to practice my git commands. I am going to add this file to my staging area and then commit it to my repository.
