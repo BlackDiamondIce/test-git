@@ -16,9 +16,9 @@ h1{
 
 - item1
 - item2
-    - item2.1
-    - item2.2
-    - item2.3
+  - item2.1
+  - item2.2
+  - item2.3
 - item3
 
 [MyWebsiteBefore](https://blackdiamondice.github.io/)
