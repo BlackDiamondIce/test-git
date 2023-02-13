@@ -1,1 +1,2 @@
 Hi! I'm someone from feature2 branch and I'm here! I work!
+I'm the second life from main branch.
