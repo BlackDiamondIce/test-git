@@ -1,2 +1,1 @@
-Hi! I'm someone from feature2 branch and I'm here! I work!
-Hello I'm line2 from the feature4 branch.
+I'm the second life from main branch.
